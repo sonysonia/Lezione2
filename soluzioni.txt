@@ -1,0 +1,43 @@
+Per i seguenti IP:
+IP 1.1.1.1/8:
+   IP Network: 1.0.0.0
+   IP Gateway convenzionale: 1.0.0.0/8
+   IP Broadcast: 1.255.255.255
+   Ottetti per host: 1 il quale 1
+   Ottetti per la network: 3 i quali (1.1.1);
+IP 128.1.6.5/12:
+   IP Network: 255.240.0.0
+   IP Gateway convenzionale: 128.1.0.0/12
+   IP Broadcast: 128.15.255.255
+   Ottetti per host: 2 i quali (6.5)
+   Ottetti per la network: 2 i quali (128.1);
+IP 200.1.2.3/24:
+   IP Network:255.255.255.0
+   IP Gateway convenzionale: 200.1.0.0/24
+   IP Broadcast:200.1.2.255
+   Ottetti per host: 1 il quale 3
+   Ottetti per la network: 3 i quali (200.1.2);
+IP 192.192.1.1/22:
+   IP Network:255.255.252.0
+   IP Gateway convenzionale: 192.192.1.0/22
+   IP Broadcast: 192.192.1.255
+   Ottetti per host: 2 i quali (1.1)
+   Ottetti per la network: 2 i quali (192.192);
+IP 126.5.4.3/9:
+   IP Network: 255.128.0.0
+   IP Gateway convenzionale: 126.5.4.0/9
+   IP Broadcast: 126.255.255.255
+   Ottetti per host: 3 i quali (5.4.3)
+   Ottetti per la network: 1 il quale 1;
+IP 200.1.9.8/24:
+   IP Network: 255.255.255.0
+   IP Gateway convenzionale: 200.1.9.8/24
+   IP Broadcast: 200.1.9.255
+   Ottetti per host: 1 il quale 8
+   Ottetti per la network: 3 i quali (200.1.9);
+IP 172.16.0.4/16:
+   IP Network: 255.252.0.0
+   IP Gateway convenzionale: 172.16.0.0/16
+   IP Broadcast: 172.128.255.255
+   Ottetti per host: 2 i quali (0.4)
+   Ottetti per la network: 2 i quali (172.16);
